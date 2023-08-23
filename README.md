@@ -4,7 +4,7 @@ In this exercise we will explore some of the differences between how classes are
 
 This lab does not have a start code, so you will need to create your project from scratch. Don't forget to install any dependencies you might need (hint: `npm install -D jest`).
 
-## Task
+## Task -- MVP COMPLETED
 
 - Create ` Car` class. The car should have properties representing manufacturer, price and engine type.
 - Set up Jest and write tests to make sure you can access each of those properties in a `Car` object.
